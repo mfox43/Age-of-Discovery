@@ -1,0 +1,95 @@
+<AdaptiveMusics>
+   <Loosing>
+      <M031006q4t>
+         <FadeIn> 8 </FadeIn>
+         <T1>loosing1.wav</T1>
+         <T2>silencel1.wav</T2>
+      </M031006q4t>
+        <M031110ccT>
+         <FadeIn> 8 </FadeIn>
+         <T1>loosing2.wav</T1>
+         <T2>silencel2.wav</T2>
+      </M031110ccT>
+      <M040122ut>
+         <FadeIn> 8 </FadeIn>
+         <T1>loosing3.wav</T1>
+         <T2>silencel3.wav</T2>
+      </M040122ut>
+   </Loosing>
+   <Main>
+      <M031010ccT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main1.wav</T1>
+         <T2>silencem1.wav</T2>
+      </M031010ccT>
+      <M040127wT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main2.wav</T1>
+         <T2>silencem2.wav</T2>
+      </M040127wT>
+      <M040722Lona1DD1jT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main3.wav</T1>
+         <T2>silencem3.wav</T2>
+      </M040722Lona1DD1jT>
+       <M040724vT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main4.wav</T1>
+         <T2>silencem4.wav</T2>
+      </M040724vT>
+      <M040726pT>
+         <FadeIn> 8 </FadeIn>      
+         <T1>main5.wav</T1>
+         <T2>silencem5.wav</T2>
+      </M040726pT>
+      <M040802kT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main6.wav</T1>
+         <T2>silencem6.wav</T2>
+      </M040802kT>
+      <M040912Lona2s1k>
+         <FadeIn> 8 </FadeIn>
+         <T1>main7.wav</T1>
+         <T2>silencem7.wav</T2>
+      </M040912Lona2s1k>
+      <MGL030717bbT>
+         <FadeIn> 8 </FadeIn>
+         <T1>main8.wav</T1>
+         <T2>silencem8.wav</T2>
+      </MGL030717bbT>
+      <M030924Z3T>
+         <FadeIn> 8 </FadeIn>
+         <T1>main9.wav</T1>
+         <T2>silencem9.wav</T2>
+      </M030924Z3T>
+   </Main>
+   <Nuclear>
+      <M040723kT3NUKE>
+         <T1>nuclear.wav</T1>
+      </M040723kT3NUKE>
+   </Nuclear>
+  <Sneaky>
+      <M040113pT>
+         <FadeIn> 8 </FadeIn>
+         <T1>sneaky1.wav</T1>
+         <T2>silences1.wav</T2>
+      </M040113pT>
+      <MGL031017uT1>
+         <FadeIn> 8 </FadeIn>
+         <T1>sneaky2.wav</T1>
+         <T2>silences2.wav</T2>
+      </MGL031017uT1>      
+   </Sneaky>   
+   <Winning>
+      <M040127GL2vT>
+         <FadeIn> 8 </FadeIn>
+         <T1>winning1.wav</T1>
+         <T2>silencew1.wav</T2>
+      </M040127GL2vT>
+      <M040729uT>
+         <FadeIn> 8 </FadeIn>
+         <T1>winning2.wav</T1>
+         <T2>silencew2.wav</T2>
+      </M040729uT>      
+   </Winning>   
+</AdaptiveMusics>
